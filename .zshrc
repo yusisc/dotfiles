@@ -96,6 +96,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias afind="apt list|grep $*"
 alias ainstall="sudo apt install $*"
+alias apt="sudo apt $*"
 alias pinstall="pip install $*"
 alias cdinstall="conda install $*"
 alias lla="ll -a"
