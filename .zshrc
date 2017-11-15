@@ -105,3 +105,4 @@ laf(){ls -al $1 | grep $2; }
 alias ps="ps -AH"
 alias psf="ps -AH | grep $*"
 alias kill="sudo kill $*"
+alias acenv="source activate $*"
