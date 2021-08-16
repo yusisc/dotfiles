@@ -1,0 +1,117 @@
+windows tools
+	everything
+	listary
+	AstroGrep
+	faststone image viewer, faststone capture
+	CopyFilenames - https://www.extrabit.com/copyfilenames
+	TreeSheets
+	
+
+
+vscode
+	# list extensions in current vscode
+	# code --list-extensions
+	####################################################
+	# install vscode extension from cmd line
+	# code --install-extension extension_name
+	####################################################
+	# my vscode extensions 
+	abusaidm.html-snippets
+	ajshort.latex-preview
+	alefragnani.numbered-bookmarks
+	arturock.gitstash
+	austin.code-gnu-global
+	batisteo.vscode-django
+	bibhasdn.unique-lines
+	BokaSolutions.vscode-rst2html
+	DaGhostman.vs-treeview
+	donjayamanne.jupyter
+	donjayamanne.python-extension-pack
+	DotJoshJohnson.xml
+	eamodio.gitlens
+	earshinov.permute-lines
+	ecmel.vscode-html-css
+	foxundermoon.shell-format
+	Gimly81.matlab
+	GrapeCity.gc-excelviewer
+	HookyQR.beautify
+	James-Yu.latex-workshop
+	jbockle.jbockle-format-files
+	johnstoncode.svn-scm
+	jolaleye.horizon-theme-vscode
+	kevinkyang.auto-comment-blocks
+	lextudio.restructuredtext
+	llvm-vs-code-extensions.vscode-clangd
+	magicstack.MagicPython
+	mhutchie.git-graph
+	michelemelluso.code-beautifier
+	Mikael.Angular-BeastCode
+	mohd-akram.vscode-html-format
+	ms-python.python
+	ms-python.vscode-pylance
+	ms-toolsai.jupyter
+	ms-vscode-remote.remote-wsl
+	ms-vscode.cpptools
+	neptunedesign.vs-sequential-number
+	PKief.material-icon-theme
+	redhat.vscode-commons
+	redhat.vscode-xml
+	shakram02.bash-beautify
+	shuworks.vscode-table-formatter
+	slevesque.vscode-autohotkey
+	tcwalther.cython
+	tecosaur.latex-utilities
+	tht13.python
+	tht13.rst-vscode
+	tombonnike.vscode-status-bar-format-toggle
+	torn4dom4n.latex-support
+	trixnz.go-to-method
+	Tyriar.vscode-terminal-here
+	VisualStudioExptTeam.vscodeintellicode
+	vscodevim.vim
+	wholroyd.jinja
+	xabikos.JavaScriptSnippets
+	xaver.clang-format
+	yo1dog.cursor-align
+	Zignd.html-css-class-completion
+
+
+visual studio tools
+	Generate C++ Filters - Visual Studio Marketplace
+	https://marketplace.visualstudio.com/items?itemName=Dllieu.GenerateCProjectFilters
+	reloZid/vc-fileutils: Visual Studio extension which organizes files in a VC project.
+	https://github.com/reloZid/vc-fileutils
+	vassitX
+	resharper
+	select next occurrence
+	relateiveLineNumbers
+	File Icons
+	vssim
+	custom document well
+	hot tabs
+	align assignments
+	Visual Docs - Document tabs extension - Visual Studio Marketplace
+	https://marketplace.visualstudio.com/items?itemName=VisualDocs.VisualDocs-Documenttabsextension
+	VCFileUtils_VS2017.vsix
+	force utf-8(no bom)
+	select next occurrence
+	generate c++ Filters
+	relateiveLineNumbers
+	file Icons
+	vsvim
+	visual assist
+	resharper
+	custom document well
+	hot tabs
+	Editor Guidelines
+	CodeMaid | An open source visual studio extension to cleanup, dig through and simplify our code
+	http://www.codemaid.net/
+	Elders.VSE_FormatDocumentOnSave.vsix
+	VsVim.vsix
+	RelativeLineNumbers.vsix
+	EditorGuidelines.vsix
+	
+	
+svn.ignore
+*.o *.lo *.la *.al .libs *.so *.so.[0-9]* *.a *.pyc *.pyo __pycache__ *.rej *~ #*# .#* .*.swp .DS_Store [Tt]humbs.db *.bat *.rar .git .svn .vscode backup* bak enc_temp_folder libs log logs release* temp tmp *x64 *.7z *.bak *.bat *.bin *.bmp *.csv *.db *.dll *.jpg *.lib *.libpause *.log *.png *.rar *.tiff *.txt *.xls *.xlsx *.yml *.zip *.obj *.dep *.aps *.vbw *.suo *.obj *.ncb *.plg *.bsc *.ilk *.exp *.sbr *.opt *.pdb *.idb *.pch *.res *.scc *.vspscc *bin *Debug *obj *.user BuildLog.htm *.cache *.log *.dep *.intermediate.manifest *ReSharper* *.tlog
+
